@@ -1,4 +1,4 @@
-# Customer Segmentation with K-Means Clustering
+# D212 Task 1: Customer Segmentation with K-Means Clustering
 
 This repository contains the code and documentation for a k-means clustering project that segments telecom customers based on their tenure and other behavioral and demographic characteristics. This project was submitted as part of the D212 - Data Mining II course at Western Governors University.
 
